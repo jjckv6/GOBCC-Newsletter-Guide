@@ -17,7 +17,7 @@ Below are the links that you will need, besides your email, to do everything nee
 
 ### Audience
 This page is where you will be able to add mainly your email to ensure that you receive the newsletter drafts as you send out for either edits or to send to everyone. You can access the audience page by pressing the *Icon with the shapes and smiles* which is located under the pencil icon on the dashboard.
-![Dashboard: Audience Button](https://www.google.com/url?sa=i&url=https%3A%2F%2Fartstorefrontssupport.zendesk.com%2Fhc%2Fen-us%2Farticles%2F360026491752-How-To-Create-a-new-Audience-List-in-Mailchimp&psig=AOvVaw1NgoQICdBhwVoLdHAeWLGA&ust=1620923449964000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDhsMjIxPACFQAAAAAdAAAAABAE)
+<!-- ![Dashboard: Audience Button]() -->
 
 
 
